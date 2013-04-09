@@ -1,0 +1,5 @@
+D:\GitHub\king\king\bin\king.dll
+D:\GitHub\king\king\bin\king.pdb
+D:\GitHub\king\king\obj\Debug\ResolveAssemblyReference.cache
+D:\GitHub\king\king\obj\Debug\king.dll
+D:\GitHub\king\king\obj\Debug\king.pdb
