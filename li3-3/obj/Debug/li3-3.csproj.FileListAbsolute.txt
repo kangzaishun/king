@@ -1,0 +1,5 @@
+D:\GitHub\li3-3\li3-3\obj\Debug\ResolveAssemblyReference.cache
+D:\GitHub\li3-3\li3-3\bin\li3-3.dll
+D:\GitHub\li3-3\li3-3\bin\li3-3.pdb
+D:\GitHub\li3-3\li3-3\obj\Debug\li3-3.dll
+D:\GitHub\li3-3\li3-3\obj\Debug\li3-3.pdb
